@@ -1,0 +1,16 @@
+@import "./assets/styles/fonts.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "OpenSans";
+  font-weight: 400;
+}
+
+.ant-card img {
+  border-radius: 0 !important;
+}
+.ant-image-mask {
+  border-radius: 0 !important;
+}

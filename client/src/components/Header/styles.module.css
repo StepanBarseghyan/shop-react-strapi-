@@ -1,0 +1,39 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+  background-color: #0fc460;
+}
+.logo {
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+.logo:hover {
+  color: #fff;
+}
+.search {
+  max-width: 500px;
+  width: 100%;
+}
+.header_right {
+  width: 161px;
+}
+.cart__button {
+  background-color: #fff;
+  color: #0fc460;
+  font-weight: 700;
+}
+.cart__button:hover {
+  background-color: #e8e2e2 !important;
+  color: #0fc460 !important;
+}
+.btn__logout {
+  color: white;
+  padding: 4px 10px;
+}
+.btn__logout:hover {
+  color: rgb(221, 220, 220) !important;
+}

@@ -1,0 +1,37 @@
+.signup {
+  min-height: 100vh;
+  background: rgb(13, 162, 80);
+  background: linear-gradient(
+    59deg,
+    rgba(13, 162, 80, 1) 0%,
+    rgba(15, 196, 96, 1) 100%
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form__container {
+  max-width: 400px;
+  width: 100%;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 4px;
+  box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.3);
+}
+.form__title {
+  margin: 0 0 25px 0;
+  text-align: center;
+}
+.have__account {
+  font-size: 13px;
+}
+.link {
+  margin-left: 5px;
+  font-weight: 600;
+  color: #0fc460;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.link:hover {
+  opacity: 0.7;
+}

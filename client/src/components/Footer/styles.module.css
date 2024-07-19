@@ -1,0 +1,10 @@
+.footer {
+  text-align: center;
+  background-color: #0fc460;
+}
+.footer h2 {
+  color: #f0dddd !important;
+}
+.list__item * {
+  color: #ddeae2 !important;
+}

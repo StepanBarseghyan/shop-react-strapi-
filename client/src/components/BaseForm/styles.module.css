@@ -1,0 +1,7 @@
+.submit__btn {
+  background-color: #0fc460 !important;
+}
+.submit__btn:hover {
+  background-color: #0fc460 !important;
+  opacity: 0.8;
+}

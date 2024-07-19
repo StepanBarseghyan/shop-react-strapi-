@@ -1,0 +1,16 @@
+.card {
+  width: 250px;
+}
+.card li {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+.card__button {
+  border-radius: 0 !important;
+  font-size: 14px !important;
+  background-color: #0fc460;
+}
+.card__button:hover {
+  background-color: #0fc460 !important;
+  opacity: 0.8;
+}
